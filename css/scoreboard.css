@@ -66,6 +66,7 @@ div {
   background-image: url(https://i.imgur.com/KYPt1eG.png);
   background-size: cover;
   grid-column: 2 / 3;
+  font-size: 100px;
 }
 .containergeneric .boxhomepoints {
   background-image: url(https://i.imgur.com/TX18jUw.png);
@@ -84,6 +85,7 @@ div {
   background-image: url(https://i.imgur.com/Nm7HSy3.png);
   background-size: cover;
   grid-column: 7 / 8;
+  font-size: 100px;
 }
 .containergeneric .boxpoints {
   color: #000;
