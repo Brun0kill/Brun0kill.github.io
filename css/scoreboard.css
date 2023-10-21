@@ -8,7 +8,7 @@ em {
 }
 
 .container {
-  display: flex;
+  display: grid;
   float: left;
   width: auto;
   background: transparent;
