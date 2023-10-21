@@ -47,6 +47,7 @@ div {
   grid-template: auto;
   float: left;
   width: auto;
+  height: auto;
   font-size: 3vw;
 }
 .containergeneric .box {
